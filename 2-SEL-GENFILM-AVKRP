@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] ÉPICOS[/B][/COLOR]</name>
+<name>[COLOR white][B]ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2B1-FILMEPIC-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/PtRJ3jq/epicos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -47,8 +47,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] COMÉDIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-TORR-MTX/main/1D-SELCOMEDIA-TORR</externallink>
+<name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2D1-FILMCOMED-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/L5T5H5M/comedia.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>DAR BOAS RISADAS É AQUI MESMO</info>
@@ -59,8 +59,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] WESTERN[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-TORR-MTX/main/1E-SELWEST-TORR</externallink>
+<name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2E1-FILMWEST-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/020mmhf/western.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
@@ -71,8 +71,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] AVENTURA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-TORR-MTX/main/1F-SELAVENT-TORR</externallink>
+<name>[COLOR white][B]AVENTURA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2F1-FILMAVENT-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/GC2RLHR/aventura.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>CONHEÇA AS GRANDES AVENTURAS DO CINEMA</info>
@@ -83,8 +83,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/2G-SELANIMA-AVAL</externallink>
+<name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2G1-FILMANIMA-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/dbfPqQz/animacao.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>DIVERSÃO GARANTIDA</info>
@@ -95,8 +95,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-TORR-MTX/main/1H-SELSUPHERO-TORR</externallink>
+<name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2H1-FILMSUPHERO-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/5YYRRVy/super-herois.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MAIORES HERÓIS EM SUA MAIORES AVENTURAS</info>
@@ -107,8 +107,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/2I1-FILMCRIMEDRAM-AVAL</externallink>
+<name>[COLOR white][B]CRIME E DRAMA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2I1-FILMCRIMEDRAM-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/1dvrSpm/crime-e-drama.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI </info>
@@ -119,8 +119,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<externallink>https://</externallink>
+<name>[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2J1-FILMFICEFAN-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/GvLhKH6/ficcao-Efantasia.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
@@ -131,8 +131,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] SUSPENSE E TERROR[/B][/COLOR]</name>
-<externallink>https://</externallink>
+<name>[COLOR white][B]SUSPENSE E TERROR[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/2K1-FILMSUSPETERR-AVKRP</externallink>
 <thumbnail>https://i.ibb.co/KwfZ4G6/Suspense-Eterror.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
